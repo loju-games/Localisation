@@ -5,7 +5,7 @@
   "description": "Tools for managing localisations in the Unity Editor. Supports importing strings from CSV files or Google Sheets. Includes special reference types of integrating localised strings with C#",
   "unity": "2018.3",
   "dependencies": {
-      "com.lojugames.common" : "1.0.0"
+      "com.lojugames.common" : "https://github.com/loju-games/Common.git"
   },
  "keywords": [
     "Loju",
