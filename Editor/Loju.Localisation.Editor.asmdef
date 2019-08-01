@@ -1,0 +1,17 @@
+{
+    "name": "Loju.Localisation.Editor",
+    "references": [
+        "Loju",
+        "Loju.Localisation"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
