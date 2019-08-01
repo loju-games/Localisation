@@ -1,0 +1,12 @@
+{
+    "name": "LojuLocalisation",
+    "references": [
+        "Loju"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "PSVita"
+    ],
+    "allowUnsafeCode": false
+}

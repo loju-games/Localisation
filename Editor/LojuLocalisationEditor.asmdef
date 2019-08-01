@@ -1,0 +1,13 @@
+{
+    "name": "LojuLocalisationEditor",
+    "references": [
+        "LojuLocalisation",
+        "Loju"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
